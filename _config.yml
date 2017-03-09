@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://kurochanneko.github.io/photorama/gallery/"  
-  - JOURNAL: "https://kurochanneko.github.io/photorama/journal/"
-  - ABOUT: "https://kurochanneko.github.io/photorama/about/"
+  - GALLERY: "https://kurochanneko.github.io/kuro/gallery/"  
+  - JOURNAL: "https://kurochanneko.github.io/kuro/journal/"
+  - ABOUT: "https://kurochanneko.github.io/kuro/about/"
 
 # All translation keys
 translations:
